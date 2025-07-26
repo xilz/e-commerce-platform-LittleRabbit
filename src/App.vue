@@ -5,8 +5,9 @@
 <template>
   <!-- 一级路由出口组件 -->
   <RouterView />
+
 </template>
 
-<script setup>
+<style scpoed lang="scss">
 
-</script>
+</style>
