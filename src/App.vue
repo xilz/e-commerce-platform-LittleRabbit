@@ -3,9 +3,8 @@
 </script>
 
 <template>
-<div>
-
-</div>
+  <!-- 一级路由出口组件 -->
+  <RouterView />
 </template>
 
 <script setup>
